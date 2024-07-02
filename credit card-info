@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>credit card-info</title>
+
+    
+
+    <link rel="stylesheet" href="creditcard.css">
+    
+     
+    
+</head>
+<body> 
+    <div class="container">
+        <header>
+            <span class="logo">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREtd3rxcTZ-lR3jaYc98_XIYDvKoAm_AvW8A&s" alt="">
+                <h5>Master card</h5>
+            </span>
+            <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/chip-1-logo.png" alt="" class="chip">
+        </header>
+        <div class="card-info">
+            <div class="name=number">
+                <h6>Card Number</h6>
+                <h5 class="number">1040 5476b1289 9569</h5>
+                <h5 class="name">Shoaib shaikh</h5>
+            </div>
+            <div class="valid-date">
+                <h6>valid thru</h6>
+                <h5>08/24</h5>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+</body>
+</html>
